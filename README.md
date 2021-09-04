@@ -15,4 +15,4 @@ Note 1: Maximize the Chrome window as soon as it opens.<br/>
 Note 2: Ignore warnings while entering name of user or group.<br/>
 Note 3: Please make sure the name of the user or group is entered correctly (case sensitive). <br/><br/>
 
-Warning: Lines 31 and 37 of the may need to be modified with change in Chrome version. The required tags can be found by using "Inspect element" feature on WhatsApp Web page.
+Warning: Lines 31 and 37 of the code may need to be modified with change in Chrome version. The required tags can be found by using "Inspect element" feature on WhatsApp Web page.
