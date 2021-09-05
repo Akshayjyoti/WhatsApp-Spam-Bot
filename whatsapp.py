@@ -43,3 +43,5 @@ msg_final = 'Hacking Complete!'
 msg_box.send_keys(msg_final)
 button = driver.find_element_by_class_name('_4sWnG')                #updated from last version: _35EW6
 button.click()
+
+driver.close()
