@@ -1,6 +1,6 @@
 #program by Akshayjyoti Bordoloi
-#version 2.0
-#testing date: September 4, 2021
+#version 2.01
+#testing date: September 7, 2021
 
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
@@ -44,4 +44,5 @@ msg_box.send_keys(msg_final)
 button = driver.find_element_by_class_name('_4sWnG')                #updated from last version: _35EW6      #May require further updates based on Chrome version.
 button.click()
 
+time.sleep(30)              #update: gives time for messages to be sent before closing the window
 driver.close()
