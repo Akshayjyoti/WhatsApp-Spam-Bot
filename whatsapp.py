@@ -15,11 +15,11 @@ driver.get('https://web.whatsapp.com/')
 print("\n\nPlease MAXIMIZE the WhatsApp window before proceeding...")
 print("\n\nPlease ignore all warnings and enter name of user or group...\n\n")
 
-name = input('Enter the name of user or group: ')
-msg = input('Enter your message: ')
-count = int(input('Enter the count: '))
-gap = float(input('Interval (in seconds) between messages: '))
-bot_prompt = input('Do you want to add bot prompt to your message? (Y/N) ').upper()
+name = input('Enter the name of user or group: Lambdadelta 2.0')
+msg = input('Enter your message:NipahNipahNipahNipahNipahNipahNipahNipahNipahNipahNipahNipahNipahNipahNipahNipahNipahNipahNipahNipahNipahNipahNipahNipahNipahNipahNipahNipah ')
+count = int(input('Enter the count:69420 '))
+gap = float(input('Interval (in seconds) between messages:1 '))
+bot_prompt = input('Do you want to add bot prompt to your message? (Y/N) N').upper()
 
 input('Enter anything after scanning QR code...')
 
